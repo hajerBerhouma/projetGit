@@ -8,8 +8,9 @@ package javaapplicationgit;
 
 /**
  *
- * @author pc
+ * @author pchfjhfjhgjfsdkhjfsdkjjggjk
  */
 public class NewClass {
     
+    nfsjdbgsdjgbfsdjgbjhbsbjbj
 }
